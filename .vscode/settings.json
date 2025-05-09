@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "crtdefs.h": "c",
+        "corecrt.h": "c",
+        "_mingw.h": "c"
+    }
+}
